@@ -12,3 +12,16 @@
 
 
 https://www.youtube.com/watch?v=NLphEFOyoqM
+
+
+
+
+#Rowell Delos Reyes
+##Answers
+1.
+2.
+3.
+4.
+5.
+
+![Linux Module 2](https://github.com/RowellDelosReyes/RowellDelosReyes_Training_Modules/assets/144487070/d99524d8-8755-4746-8456-50534316c9fb)
