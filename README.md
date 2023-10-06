@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=NLphEFOyoqM
 
 
 
-#Rowell Delos Reyes
-##Answers
+# Rowell Delos Reyes
+## Answers
 1.What command is used to display the current working directory? The command that is used to display the current working directory is called "pwd".
 2.How do you create a new directory in Linux? To create the a new directory in linux, use the command "mkdir" follows by the name of the new directory.
 3.What command is used to list files and directories in the current directory? The command that is used to list files and directories is called "ls"
