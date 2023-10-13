@@ -12,3 +12,16 @@
 
 
 https://www.youtube.com/watch?v=NLphEFOyoqM
+
+
+
+
+# Rowell Delos Reyes
+## Answers
+1.What command is used to display the current working directory? The command that is used to display the current working directory is called "pwd".
+2.How do you create a new directory in Linux? To create the a new directory in linux, use the command "mkdir" follows by the name of the new directory.
+3.What command is used to list files and directories in the current directory? The command that is used to list files and directories is called "ls"
+4.How do you navigate to the parent directory in the Linux terminal? To navigate to the parent directory use the command "cd" to go back to the main directory
+5.What command is used to copy files in Linux? The command that is used to copy the files in Linux is the command "cp", Then the name of the file you want to copy
+
+![Linux Module 2](https://github.com/RowellDelosReyes/RowellDelosReyes_Training_Modules/assets/144487070/d99524d8-8755-4746-8456-50534316c9fb)
