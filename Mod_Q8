@@ -1,0 +1,13 @@
+Num1= int(input('Give me a number'))
+Num2 = int(input('Give me a number'))
+total = Num1 + Num2
+
+if (total%2 == 0):
+    print('This value is even')
+else:
+    print("the value is odd")
+
+    '''I created variables Num1 and Num2 and asked for the the users input. Their input gets stored and 
+    converted into a integer. Then I created a variable called total which is the sum of the two numbers.
+    I then I divided the total by two and used the remainder function to determine if it has a remainder. If 
+    it does then it will print odd, if doesn't it will print even.'''
