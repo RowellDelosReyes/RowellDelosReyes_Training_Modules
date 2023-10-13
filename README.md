@@ -36,3 +36,6 @@ https://www.youtube.com/watch?v=NLphEFOyoqM
 3.How do you add a multi-line comment in Python. To add a multi-line comment you have to use the three quote marks. Then put the comment and close the three quotes
 4.How do you add a multi-line comment in C++ TO add a multiline comment in a backslash with a asterisk. Then insert your comment then close with another backslash with asterisk.
 
+# Mod 8 documentation
+Description: I created a file that would ask the user for two numbers then would determine if the sum will be odd or even.
+Parameters:
