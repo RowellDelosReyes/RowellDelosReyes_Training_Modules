@@ -25,3 +25,14 @@ https://www.youtube.com/watch?v=NLphEFOyoqM
 5.What command is used to copy files in Linux? The command that is used to copy the files in Linux is the command "cp", Then the name of the file you want to copy
 
 ![Linux Module 2](https://github.com/RowellDelosReyes/RowellDelosReyes_Training_Modules/assets/144487070/d99524d8-8755-4746-8456-50534316c9fb)
+
+
+
+
+# Rowell Delos Reyes
+## Answers
+1.How do you add a comment a single-comment in Python. To add a single comment you the pound command 
+2. How do you add a single line comment in C++. To add a single comment you use the backslash two times
+3.How do you add a multi-line comment in Python. To add a multi-line comment you have to use the three quote marks. Then put the comment and close the three quotes
+4.How do you add a multi-line comment in C++ TO add a multiline comment in a backslash with a asterisk. Then insert your comment then close with another backslash with asterisk.
+
